@@ -30,20 +30,22 @@ lead to an improved performance.
 
 Directory structure:
 
-├── LICENSE
-├── README.rst
-├── adfraud
-│   ├── __init__.py
-│   ├── error.py
-│   └── models.py
-├── data
-│   └── !! store data files in here !!
-├── img
-│   └── example.png
-├── notebooks
-│   ├── exploratory.ipynb
-│   ├── multimodel.ipynb
-│   ├── simple_encode_categoricals.ipynb
-│   ├── simple_ip_model.ipynb
-│   └── simple_pipeline_stratified.ipynb
-└── requirements.txt
+::
+
+  ├── LICENSE
+  ├── README.rst
+  ├── adfraud
+  │   ├── __init__.py
+  │   ├── error.py
+  │   └── models.py
+  ├── data
+  │   └── !! store data files in here !!
+  ├── img
+  │   └── example.png
+  ├── notebooks
+  │   ├── exploratory.ipynb
+  │   ├── multimodel.ipynb
+  │   ├── simple_encode_categoricals.ipynb
+  │   ├── simple_ip_model.ipynb
+  │   └── simple_pipeline_stratified.ipynb
+  └── requirements.txt
