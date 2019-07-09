@@ -34,10 +34,6 @@ Directory structure:
 ├── README.rst
 ├── adfraud
 │   ├── __init__.py
-│   ├── __pycache__
-│   │   ├── __init__.cpython-37.pyc
-│   │   ├── error.cpython-37.pyc
-│   │   └── models.cpython-37.pyc
 │   ├── error.py
 │   └── models.py
 ├── data
